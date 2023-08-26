@@ -2,7 +2,7 @@
 
 This Github Repository contains the recommended settings for CoreCraft.
 
-** Server Files
+** Server Files**
 
 Start OPT has 8GB of ram reserved for CoreCraft (can be changed) and has many Java arguments to optimize it, but its recommended to use an Oracle Enterprise version of Java 17 in order to safely use the script.
 
