@@ -1,0 +1,2 @@
+# CoreCraft
+Offical CoreCraft Config
